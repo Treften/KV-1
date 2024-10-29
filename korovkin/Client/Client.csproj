@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\23нп\.nuget\packages\nlog.config\4.7.15\contentFiles\any\any\NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Users\23нп\.nuget\packages\nlog.config\4.7.13\contentFiles\any\any\NLog.config" Link="NLog.config">
+      <Private>True</Private>
+      <NuGetPackageVersion>4.7.13</NuGetPackageVersion>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <NuGetItemType>None</NuGetItemType>
+      <TargetPath>NLog.config</TargetPath>
+      <NuGetPackageId>NLog.Config</NuGetPackageId>
+      <Pack>false</Pack>
+    </None>
+    <None Include="..\..\..\Users\23нп\.nuget\packages\nlog.schema\5.2.5\contentFiles\any\any\NLog.xsd" Link="NLog.xsd">
+      <Private>False</Private>
+      <NuGetPackageVersion>5.2.5</NuGetPackageVersion>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <NuGetItemType>None</NuGetItemType>
+      <NuGetPackageId>NLog.Schema</NuGetPackageId>
+      <Pack>false</Pack>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="NLog" Version="5.2.5" />
+    <PackageReference Include="NLog.Config" Version="4.7.15" />
+  </ItemGroup>
+
+</Project>

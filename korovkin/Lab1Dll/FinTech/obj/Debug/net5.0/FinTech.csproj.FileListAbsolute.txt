@@ -1,0 +1,12 @@
+C:\Projects\korovkin\Lab1Dll\FinTech\bin\Debug\net5.0\FinTech.deps.json
+C:\Projects\korovkin\Lab1Dll\FinTech\bin\Debug\net5.0\FinTech.dll
+C:\Projects\korovkin\Lab1Dll\FinTech\bin\Debug\net5.0\ref\FinTech.dll
+C:\Projects\korovkin\Lab1Dll\FinTech\bin\Debug\net5.0\FinTech.pdb
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.AssemblyInfoInputs.cache
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.AssemblyInfo.cs
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.csproj.CoreCompileInputs.cache
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.dll
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\ref\FinTech.dll
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.pdb
+C:\Projects\korovkin\Lab1Dll\FinTech\obj\Debug\net5.0\FinTech.csproj.AssemblyReference.cache

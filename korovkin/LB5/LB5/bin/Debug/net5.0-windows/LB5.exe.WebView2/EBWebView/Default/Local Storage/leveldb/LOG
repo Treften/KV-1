@@ -1,0 +1,14 @@
+2023/12/27-22:33:55.410 44b4 Reusing MANIFEST C:\Projects\korovkin\LB5\LB5\bin\Debug\net5.0-windows\LB5.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/27-22:33:55.477 44b4 Recovering log #30
+2023/12/27-22:33:55.478 44b4 Level-0 table #32: started
+2023/12/27-22:33:55.529 44b4 Level-0 table #32: 44023 bytes OK
+2023/12/27-22:33:55.579 44b4 Delete type=0 #30
+2023/12/27-22:33:55.581 3610 Compacting 4@0 + 1@1 files
+2023/12/27-22:33:55.881 3610 Generated table #34@0: 5 keys, 11412 bytes
+2023/12/27-22:33:55.881 3610 Compacted 4@0 + 1@1 files => 11412 bytes
+2023/12/27-22:33:55.883 3610 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/27-22:33:55.886 3610 Delete type=2 #21
+2023/12/27-22:33:55.887 3610 Delete type=2 #23
+2023/12/27-22:33:55.888 3610 Delete type=2 #26
+2023/12/27-22:33:55.888 3610 Delete type=2 #29
+2023/12/27-22:33:55.889 3610 Delete type=2 #32

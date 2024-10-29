@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1Dll", "Lab1Dll.csproj", "{4DA8F30E-B8F5-4218-AED7-93BBE0FF018D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTech", "..\FinTech\FinTech.csproj", "{14EF531D-C02B-4E21-9D1E-5C61CC0414F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA8F30E-B8F5-4218-AED7-93BBE0FF018D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA8F30E-B8F5-4218-AED7-93BBE0FF018D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA8F30E-B8F5-4218-AED7-93BBE0FF018D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA8F30E-B8F5-4218-AED7-93BBE0FF018D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EF531D-C02B-4E21-9D1E-5C61CC0414F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EF531D-C02B-4E21-9D1E-5C61CC0414F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EF531D-C02B-4E21-9D1E-5C61CC0414F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EF531D-C02B-4E21-9D1E-5C61CC0414F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BE1583-E35C-4476-8544-65B039F963CE}
+	EndGlobalSection
+EndGlobal

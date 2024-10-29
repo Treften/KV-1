@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab1Dll/1.0.0": {
+        "dependencies": {
+          "FinTech": "1.0.0"
+        },
+        "runtime": {
+          "Lab1Dll.dll": {}
+        }
+      },
+      "FinTech/1.0.0": {
+        "runtime": {
+          "FinTech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1Dll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinTech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
